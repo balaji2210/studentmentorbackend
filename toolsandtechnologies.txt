@@ -8,6 +8,7 @@ ExpressJs for Server
 mongoose as ORM
 Cors for Cross origin resourse sharing
 heroku for hosting the backend code
+Vscode as code editor
 
 Versions
 Node - v16.13.2
