@@ -1,0 +1,9 @@
+Tools used by me to build this project are
+postman for api testing
+mongodb compass for local machine database
+
+Techologies used in this project are
+Node to run the javascript code
+ExpressJs for Server
+mongoose as ORM
+Cors for Cross origin resourse sharing
